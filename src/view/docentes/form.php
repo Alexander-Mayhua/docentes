@@ -50,7 +50,7 @@
     </div>
     <div class="col-12">
       <button class="btn btn-primary">Guardar</button>
-      <a class="btn btn-secondary" href="<?= BASE_URL ?>index.php?c=docentes&a=index">Cancelar</a>
+      <a class="btn btn-secondary" href="<?= BASE_URL ?>index.php?c=docentes&a=index">Cancelar </a>
     </div>
   </div>
 </form>
